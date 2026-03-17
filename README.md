@@ -62,7 +62,7 @@ Labyrinth/
 
 ---
 
-## Contrôles (tel que codé actuellement)
+## Contrôles 
 
 | Action  | Touche |
 | ------- | ------ |
